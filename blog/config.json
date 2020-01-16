@@ -1,18 +1,14 @@
 [
  {
-  "username": "imfunniee",
-  "name": "imfunny",
-  "userimg": "https://avatars3.githubusercontent.com/u/36105478?v=4",
-  "sort": "star",
-  "order": "desc",
-  "includeFork": true,
+  "username": "killervlu",
+  "name": "DevGay",
+  "userimg": "https://avatars1.githubusercontent.com/u/50131071?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "owner"
-  ],
-  "twitter": "imfunnieee",
-  "linkedin": "imfunniee",
-  "medium": null,
-  "dribbble": "imfunniee"
+   "all"
+  ]
  }
 ]
